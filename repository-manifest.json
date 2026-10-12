@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-12",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 29,
+      "sha256": "53f0c100a33a56ebada040287b3d0f5dbab21c6ec6b66209fec5515c508f1144"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3358,
+      "sha256": "e72228bace9e9e7117539f1230cbb193b53a9dfd467857cf0cf41fdfb7f62f54"
+    },
+    {
+      "path": "archive/README.md",
+      "bytes": 248,
+      "sha256": "f797c12336c0b488b66c26f6e47da89c7a94359b2d307efe316f3ef3d7b73f1c"
+    },
+    {
+      "path": "archive/original-handoff/README.md",
+      "bytes": 1556,
+      "sha256": "b6973ede3f56e0976a22d2597c9421c9c726db272a27e308564c98fc2858162b"
+    },
+    {
+      "path": "archive/original-handoff/assets/01_周遥_角色/CHAR-01_早期人物与世界概念板.png",
+      "bytes": 2714087,
+      "sha256": "77e9b0eca19a5a4d86bdb29fcdea5babcc6ee692b56e219ab9649da79b0ccd57"
+    },
+    {
+      "path": "archive/original-handoff/assets/01_周遥_角色/CHAR-02_早期角色氛围概念板.png",
+      "bytes": 2686523,
+      "sha256": "a1fbf74112e2cda2a8509cec6f1705100176b91707cb1cd20c88e049c3c39a4e"
+    },
+    {
+      "path": "archive/original-handoff/assets/01_周遥_角色/CHAR-03_人物设定综合板.png",
+      "bytes": 2548826,
+      "sha256": "ee2d4389dd50511d741f2f131bf62d8977a889fc23dd676c773f13b867b1e19f"
+    },
+    {
+      "path": "archive/original-handoff/assets/01_周遥_角色/CHAR-04_人物服饰道具综合板.png",
+      "bytes": 2349829,
+      "sha256": "8a6088ae2829aa95a935f387cde3d18cc03a119d0e10116cf2afa66823982897"
+    },
+    {
+      "path": "archive/original-handoff/assets/01_周遥_角色/CHAR-05_第一组_角色三视图.png",
+      "bytes": 2126647,
+      "sha256": "ae7ca8f45766317a39088b62728ab6c4cd4f3465346a5ec16b4f5ef9cad050d5"
+    },
+    {
+      "path": "archive/original-handoff/assets/01_周遥_角色/CHAR-06_第一组_六表情.png",
+      "bytes": 2381573,
+      "sha256": "c46adad8a63f9b1a94413f7baf59503d3b9bf6d55979af58bb72735352c39d8f"
+    },
+    {
+      "path": "archive/original-handoff/assets/01_周遥_角色/CHAR-07_第一组_服装参考.png",
+      "bytes": 2199365,
+      "sha256": "7e90403d40503165ee17eb278b7289d550701e7a5521f70a911ce74cd90856b3"
+    },
+    {
+      "path": "archive/original-handoff/assets/02_双城_场景/CITY-01_旧版_真实地名对照.png",
+      "bytes": 3135844,
+      "sha256": "8f3ed3ec3b71796822b9f1ae04dd203bb3599e58651b424818557a56dd84ea71"
+    },
+    {
+      "path": "archive/original-handoff/assets/02_双城_场景/CITY-02_旧版_现实地名对照.png",
+      "bytes": 3124709,
+      "sha256": "ab96ccdcc59a58c2c20ecf8e079bea27bdc63dd923cc2638195b875ee74eec1e"
+    },
+    {
+      "path": "archive/original-handoff/assets/02_双城_场景/CITY-03_虚构中环站_对照概念A.png",
+      "bytes": 3132797,
+      "sha256": "30c1a8e81941c22abd990de617812eb1659b26eead4980be6540b5044e3fc216"
+    },
+    {
+      "path": "archive/original-handoff/assets/02_双城_场景/CITY-04_虚构中环站_对照概念B.png",
+      "bytes": 3134166,
+      "sha256": "c2420b45aecff246f2481279467efd9374e51b75030a5d598ec05b3c2bc0594a"
+    },
+    {
+      "path": "archive/original-handoff/assets/02_双城_场景/CITY-05_现实中环站_低清裁切.png",
+      "bytes": 767828,
+      "sha256": "f098bcd1f2d94e47eebd31a20132dec147520c2245aeb04f104f1da279178766"
+    },
+    {
+      "path": "archive/original-handoff/assets/02_双城_场景/CITY-06_镜像中环站_低清裁切.png",
+      "bytes": 766091,
+      "sha256": "492cd3d73e86d1babcf944a57505c38ed4733a0c7ad2a6271f4f999a5e0fc730"
+    },
+    {
+      "path": "archive/original-handoff/assets/02_双城_场景/CITY-07_现实城市_枢纽全景.png",
+      "bytes": 2937821,
+      "sha256": "556b45cc2c3178f7004f3b917b598781845a26e887680b2a43ffee6940cf24b8"
+    },
+    {
+      "path": "archive/original-handoff/assets/02_双城_场景/CITY-08_现实城市_地铁车厢.png",
+      "bytes": 2146482,
+      "sha256": "35cc3ec16700976a211f91f59db3a2cd4b72fe090d5281aebf3eee66046650a5"
+    },
+    {
+      "path": "archive/original-handoff/assets/02_双城_场景/CITY-09_镜像城市_枢纽全景.png",
+      "bytes": 3360818,
+      "sha256": "2ae0fdf7ed3933ca27f5fd100a6596155d65f78d6aa0d58c8167644852d8a3be"
+    },
+    {
+      "path": "archive/original-handoff/assets/02_双城_场景/CITY-10_镜像城市_魔法站厅.png",
+      "bytes": 2728321,
+      "sha256": "2c95197e9597126400c33e67c65cad29381b662eb2b329efe1b550f0488f76fc"
+    },
+    {
+      "path": "archive/original-handoff/assets/03_列车_剧情/TRN-01_交通分镜概念8格.png",
+      "bytes": 2733439,
+      "sha256": "b54f7f36990e077badb3256f18f1e7869daddc6d7f6fc2d3b85d030edb189d67"
+    },
+    {
+      "path": "archive/original-handoff/assets/03_列车_剧情/TRN-02_交通分镜概念6格.png",
+      "bytes": 2831284,
+      "sha256": "3e6832ee30c571131d312278ec8d6c9aa9f4f50b3cca91c4349160d1125fc1ea"
+    },
+    {
+      "path": "archive/original-handoff/assets/03_列车_剧情/TRN-03_现实地铁列车_低清裁切.png",
+      "bytes": 330210,
+      "sha256": "7fcbbde1d12bfc9a71ad76ab8bb5d30901c598adb810219131e64d2b56f41cfb"
+    },
+    {
+      "path": "archive/original-handoff/assets/03_列车_剧情/TRN-04_镜像魔法列车_低清裁切.png",
+      "bytes": 404162,
+      "sha256": "2d63179321faa4affa79e9572728f48e80d1e998bb7346d90e53bee61906b124"
+    },
+    {
+      "path": "archive/original-handoff/assets/03_列车_剧情/TRN-05_周遥通勤_低清裁切.png",
+      "bytes": 311085,
+      "sha256": "44adc01e3638d5a550e5f198ca103934b25ce05ac446d5747edcaf13f3db0bbd"
+    },
+    {
+      "path": "archive/original-handoff/assets/03_列车_剧情/TRN-06_初见镜像世界_低清裁切.png",
+      "bytes": 357728,
+      "sha256": "cf6e9dd80ad7b524857d21c894d09e163d3648d3382c3750a519f8930e2d3aac"
+    },
+    {
+      "path": "archive/original-handoff/data/manifest.json",
+      "bytes": 11178,
+      "sha256": "3e67d8152d5c000093f039f3d2a780c796853ae074b9330e66f9baec899b2315"
+    },
+    {
+      "path": "archive/original-handoff/handoff/CODEX_TASK.md",
+      "bytes": 1051,
+      "sha256": "0b0f77e02b19b2fb7301dbe0adc142d2703032f80d2c9005ab56e556f137733e"
+    },
+    {
+      "path": "archive/original-handoff/handoff/PROJECT_CONTEXT.md",
+      "bytes": 4083,
+      "sha256": "58e74185deac4ff47d224017e6e94c087c409237cb438bef167a6fb6a31825ec"
+    },
+    {
+      "path": "archive/original-handoff/handoff/WORK_TASK.md",
+      "bytes": 1470,
+      "sha256": "6e035c64769baf57722c8f68206fd2ffb69a72250f69430a2461b34efdfae67a"
+    },
+    {
+      "path": "archive/original-handoff/previews/ALL_ASSETS_CONTACT_SHEET.jpg",
+      "bytes": 851791,
+      "sha256": "aa3b9f285ab4f5270e25914937e35c10d23cb10d38c0f86e24e5a5342391cc33"
+    },
+    {
+      "path": "archive/original-handoff/reports/INITIAL_QA_NOTES.md",
+      "bytes": 2854,
+      "sha256": "13921dafd1b7f794831d30a1062b7fc0754f857ea97596a3abcfbe30e6431a77"
+    },
+    {
+      "path": "archive/original-handoff/tools/verify_assets.py",
+      "bytes": 819,
+      "sha256": "63f14264e8b7a5bee5b1d0b3a2483c0578a05f0c89242a777566f6b013a97933"
+    },
+    {
+      "path": "production/.DS_Store",
+      "bytes": 6148,
+      "sha256": "738bdfee374563f2e75d518594a53852463c8629ee5cd20394f40bbd81abab76"
+    },
+    {
+      "path": "production/01_主选关键帧/01_现实城市_原图.png",
+      "bytes": 2937821,
+      "sha256": "556b45cc2c3178f7004f3b917b598781845a26e887680b2a43ffee6940cf24b8"
+    },
+    {
+      "path": "production/01_主选关键帧/02_现实列车_整理版.png",
+      "bytes": 2385976,
+      "sha256": "50201d31094ebc61cbd770362ee155ae6878029e052149fbcad9e0a51aeda002"
+    },
+    {
+      "path": "production/01_主选关键帧/03_周遥通勤_整理版.png",
+      "bytes": 2111558,
+      "sha256": "4809634d4effd56625b892021029c848fe4576b515e386c0c7be1a2a0122b259"
+    },
+    {
+      "path": "production/01_主选关键帧/04_发现另一座城市_整理版.png",
+      "bytes": 2232428,
+      "sha256": "700684fb176fb2fcc5d3c1dbae4d0b8d7c439b224f5fb67418e81a728951b754"
+    },
+    {
+      "path": "production/01_主选关键帧/05_魔法列车_整理版.png",
+      "bytes": 2546587,
+      "sha256": "1cd13964d5cf55a9b5f1ab42e5b791c99e27c942f8d72c445d1a998598241abf"
+    },
+    {
+      "path": "production/01_主选关键帧/06_镜像城市_原图.png",
+      "bytes": 3360818,
+      "sha256": "2ae0fdf7ed3933ca27f5fd100a6596155d65f78d6aa0d58c8167644852d8a3be"
+    },
+    {
+      "path": "production/01_主选关键帧/07_抵达镜像站厅_整理版.png",
+      "bytes": 2440659,
+      "sha256": "6673a7fd4957bb7eba32eb7d9b6904134af6ab677ae8a93d9417e83c5c6ae588"
+    },
+    {
+      "path": "production/01_主选关键帧/08_镜像城市日常街道_新增.png",
+      "bytes": 2577056,
+      "sha256": "c962127e45d929885fabf7cf579f215a6fc6cc4ece4f3cbb3d0b3b88a9b4ceb3"
+    },
+    {
+      "path": "production/02_辅助参考_按限制使用/R01_周遥三视图_仅脸部体型比例参考.png",
+      "bytes": 2126647,
+      "sha256": "ae7ca8f45766317a39088b62728ab6c4cd4f3465346a5ec16b4f5ef9cad050d5"
+    },
+    {
+      "path": "production/02_辅助参考_按限制使用/R02_周遥表情_仅情绪参考.png",
+      "bytes": 2381573,
+      "sha256": "c46adad8a63f9b1a94413f7baf59503d3b9bf6d55979af58bb72735352c39d8f"
+    },
+    {
+      "path": "production/02_辅助参考_按限制使用/R03_服装道具细节_历史候选.png",
+      "bytes": 2199365,
+      "sha256": "7e90403d40503165ee17eb278b7289d550701e7a5521f70a911ce74cd90856b3"
+    },
+    {
+      "path": "production/02_辅助参考_按限制使用/R04_现实车厢_空间参考.png",
+      "bytes": 2146482,
+      "sha256": "35cc3ec16700976a211f91f59db3a2cd4b72fe090d5281aebf3eee66046650a5"
+    },
+    {
+      "path": "production/02_辅助参考_按限制使用/R05_原始六格分镜_仅动作叙事参考.png",
+      "bytes": 2831284,
+      "sha256": "3e6832ee30c571131d312278ec8d6c9aa9f4f50b3cca91c4349160d1125fc1ea"
+    },
+    {
+      "path": "production/03_来源与记录/上一轮_使用说明.md",
+      "bytes": 3050,
+      "sha256": "374a41975a534949050127e1e8222001f9442b8db9d97338cdcfebfa914d1d25"
+    },
+    {
+      "path": "production/03_来源与记录/上一轮_生成提示词.md",
+      "bytes": 7621,
+      "sha256": "4828cc880d1eccd41cdad97ef9236d502b77fb454b1c7bf2a5ad670cfacb2e08"
+    },
+    {
+      "path": "production/03_来源与记录/上一轮_素材索引.json",
+      "bytes": 3576,
+      "sha256": "341f88da6574bc6857691eadc31b5687cf84442888fad45c8f21cb28246010fe"
+    },
+    {
+      "path": "production/先读我.md",
+      "bytes": 2655,
+      "sha256": "b7f28c4ad71e1f5793b038069e2a6d261e54e5efe7c3335ee22635a3e226eae4"
+    },
+    {
+      "path": "production/建议分镜.md",
+      "bytes": 1252,
+      "sha256": "d82b66dd93be04965dd8e320b3d0b1988ccfe3e9728ec7a5c20bb281b440efcb"
+    },
+    {
+      "path": "production/文件清单.json",
+      "bytes": 6020,
+      "sha256": "1a689b4a2fa1d21597af38815a481c513cb883c0bcac8f306338b5b2411aad6c"
+    },
+    {
+      "path": "production/素材使用矩阵.md",
+      "bytes": 3552,
+      "sha256": "c758549eecee3e0dcf57485fafd672fd8511d2a78a7eca6ea57d83d2586ccc1f"
+    },
+    {
+      "path": "production/素材预览.html",
+      "bytes": 6709,
+      "sha256": "3d3b115c00dba89781c04337394e725a3db97a3855e611ada8f7cb6992172b0d"
+    },
+    {
+      "path": "production/给Grok_Build的制作说明.md",
+      "bytes": 3448,
+      "sha256": "ee84d922d0b45c54fb5e9ad28b8d5c3ff8ad99b5edab9eee9b913ace85abf492"
+    }
+  ]
+}

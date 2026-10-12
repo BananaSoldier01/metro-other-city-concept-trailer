@@ -1,0 +1,95 @@
+{
+  "project": "地铁的另一座城市",
+  "version": "先导概念片素材_v01",
+  "date": "2026-10-12",
+  "assets": [
+    {
+      "id": "01",
+      "file": "01_现实城市_原图.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2937821,
+      "sha256": "556b45cc2c3178f7004f3b917b598781845a26e887680b2a43ffee6940cf24b8",
+      "source": "CITY-07，原图无损复制",
+      "use": "现实城市开场；可与06对照。",
+      "status": "concept_trailer_static_asset"
+    },
+    {
+      "id": "02",
+      "file": "02_现实列车_整理版.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2385976,
+      "sha256": "50201d31094ebc61cbd770362ee155ae6878029e052149fbcad9e0a51aeda002",
+      "source": "TRN-03，参考重绘为独立横屏画面",
+      "use": "现实通勤列车建立镜头；可与05呼应。",
+      "status": "concept_trailer_static_asset"
+    },
+    {
+      "id": "03",
+      "file": "03_周遥通勤_整理版.png",
+      "width": 1659,
+      "height": 948,
+      "bytes": 2111558,
+      "sha256": "4809634d4effd56625b892021029c848fe4576b515e386c0c7be1a2a0122b259",
+      "source": "TRN-05，参考重绘并扩展为独立横屏画面",
+      "use": "周遥安静通勤。",
+      "status": "concept_trailer_static_asset"
+    },
+    {
+      "id": "04",
+      "file": "04_发现另一座城市_整理版.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2232428,
+      "sha256": "700684fb176fb2fcc5d3c1dbae4d0b8d7c439b224f5fb67418e81a728951b754",
+      "source": "TRN-06＋本包03，参考重绘，统一浅色外套，去分镜文字",
+      "use": "窗外变化与人物发现异常；与03保持基本人物连续性。",
+      "status": "concept_trailer_static_asset"
+    },
+    {
+      "id": "05",
+      "file": "05_魔法列车_整理版.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2546587,
+      "sha256": "1cd13964d5cf55a9b5f1ab42e5b791c99e27c942f8d72c445d1a998598241abf",
+      "source": "TRN-04＋本包02，参考重绘，统一机位方向，简化装饰",
+      "use": "魔法列车揭示；本版不要再混用古典圆头机车近景。",
+      "status": "concept_trailer_static_asset"
+    },
+    {
+      "id": "06",
+      "file": "06_镜像城市_原图.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 3360818,
+      "sha256": "2ae0fdf7ed3933ca27f5fd100a6596155d65f78d6aa0d58c8167644852d8a3be",
+      "source": "CITY-09，原图无损复制",
+      "use": "镜像城市主要奇观；空间对应为目视级，非像素配准。",
+      "status": "concept_trailer_static_asset"
+    },
+    {
+      "id": "07",
+      "file": "07_抵达镜像站厅_整理版.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2440659,
+      "sha256": "6673a7fd4957bb7eba32eb7d9b6904134af6ab677ae8a93d9417e83c5c6ae588",
+      "source": "TRN-02第五格＋本包03/05，参考重绘，统一衣装，简化站厅",
+      "use": "抵达与探索起点；背包、发丝的细小变化不在本轮深修。",
+      "status": "concept_trailer_static_asset"
+    },
+    {
+      "id": "08",
+      "file": "08_镜像城市日常街道_新增.png",
+      "width": 1672,
+      "height": 941,
+      "bytes": 2577056,
+      "sha256": "c962127e45d929885fabf7cf579f215a6fc6cc4ece4f3cbb3d0b3b88a9b4ceb3",
+      "source": "新增镜像城市生活街道，非现实世界；尚未绑定具体站名或地图位置",
+      "use": "生活尺度的停顿与探索；店铺、居民和悬浮送货车体现日常魔法。",
+      "status": "concept_trailer_static_asset"
+    }
+  ]
+}

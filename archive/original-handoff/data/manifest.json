@@ -1,0 +1,306 @@
+{
+  "project": "地铁的另一座城市",
+  "version": "handoff-v0.1",
+  "asset_count": 23,
+  "files": [
+    {
+      "id": "CHAR-01",
+      "path": "assets/01_周遥_角色/CHAR-01_早期人物与世界概念板.png",
+      "original_filename": "a_detailed_character_concept_board_and_key_art_col.png",
+      "size_px": [
+        1536,
+        1024
+      ],
+      "bytes": 2714087,
+      "sha256": "77e9b0eca19a5a4d86bdb29fcdea5babcc6ee692b56e219ab9649da79b0ccd57",
+      "review_status": "exploration",
+      "notes": "早期综合海报；人物与城市混排；含非最终文案，不宜当角色母图。"
+    },
+    {
+      "id": "CHAR-02",
+      "path": "assets/01_周遥_角色/CHAR-02_早期角色氛围概念板.png",
+      "original_filename": "a_detailed_concept_art_moodboard_poster_in_a_clean.png",
+      "size_px": [
+        1536,
+        1024
+      ],
+      "bytes": 2686523,
+      "sha256": "a1fbf74112e2cda2a8509cec6f1705100176b91707cb1cd20c88e049c3c39a4e",
+      "review_status": "exploration",
+      "notes": "早期人物、服装及场景概念；不是三视图母版。"
+    },
+    {
+      "id": "CHAR-03",
+      "path": "assets/01_周遥_角色/CHAR-03_人物设定综合板.png",
+      "original_filename": "a_wide_detailed_concept_art_character_design_boar.png",
+      "size_px": [
+        1536,
+        1024
+      ],
+      "bytes": 2548826,
+      "sha256": "ee2d4389dd50511d741f2f131bf62d8977a889fc23dd676c773f13b867b1e19f",
+      "review_status": "exploration",
+      "notes": "含角色三视图、表情和场景，仍有造型与面容差异。"
+    },
+    {
+      "id": "CHAR-04",
+      "path": "assets/01_周遥_角色/CHAR-04_人物服饰道具综合板.png",
+      "original_filename": "a_wide_detailed_anime_3d_styled_character_design.png",
+      "size_px": [
+        1536,
+        1024
+      ],
+      "bytes": 2349829,
+      "sha256": "8a6088ae2829aa95a935f387cde3d18cc03a119d0e10116cf2afa66823982897",
+      "review_status": "exploration",
+      "notes": "含日常和冒险两套服装；冒险装未最终确认。"
+    },
+    {
+      "id": "CHAR-05",
+      "path": "assets/01_周遥_角色/CHAR-05_第一组_角色三视图.png",
+      "original_filename": "职场女性角色三视图设定表.png",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "bytes": 2126647,
+      "sha256": "ae7ca8f45766317a39088b62728ab6c4cd4f3465346a5ec16b4f5ef9cad050d5",
+      "review_status": "candidate",
+      "notes": "第一组角色全身、转身细节，整体近真人，未做跨图定妆统一检查。"
+    },
+    {
+      "id": "CHAR-06",
+      "path": "assets/01_周遥_角色/CHAR-06_第一组_六表情.png",
+      "original_filename": "女性角色六种表情参考表.png",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "bytes": 2381573,
+      "sha256": "c46adad8a63f9b1a94413f7baf59503d3b9bf6d55979af58bb72735352c39d8f",
+      "review_status": "candidate",
+      "notes": "第一组表情参考；需比对角色母版面部结构。"
+    },
+    {
+      "id": "CHAR-07",
+      "path": "assets/01_周遥_角色/CHAR-07_第一组_服装参考.png",
+      "original_filename": "周瑶角色服装设定集.png",
+      "size_px": [
+        1448,
+        1086
+      ],
+      "bytes": 2199365,
+      "sha256": "7e90403d40503165ee17eb278b7289d550701e7a5521f70a911ce74cd90856b3",
+      "review_status": "candidate",
+      "notes": "原始文件名误写“周瑶”，角色正式写法为“周遥”；服装变化尚未获正式定稿。"
+    },
+    {
+      "id": "CITY-01",
+      "path": "assets/02_双城_场景/CITY-01_旧版_真实地名对照.png",
+      "original_filename": "a_wide_cinematic_split_panel_illustration_of_a_fut.png",
+      "size_px": [
+        1672,
+        941
+      ],
+      "bytes": 3135844,
+      "sha256": "8f3ed3ec3b71796822b9f1ae04dd203bb3599e58651b424818557a56dd84ea71",
+      "review_status": "legacy",
+      "notes": "早期使用南京/新街口等现实地名，后续确定正式成片采用虚构城市；不可直接作为正式站牌来源。"
+    },
+    {
+      "id": "CITY-02",
+      "path": "assets/02_双城_场景/CITY-02_旧版_现实地名对照.png",
+      "original_filename": "wide_cinematic_split_screen_cityscape_concept_art.png",
+      "size_px": [
+        1672,
+        941
+      ],
+      "bytes": 3124709,
+      "sha256": "ab96ccdcc59a58c2c20ecf8e079bea27bdc63dd923cc2638195b875ee74eec1e",
+      "review_status": "legacy",
+      "notes": "早期现实地名相关对照，概念参考，不可用作最终地理与文字定稿。"
+    },
+    {
+      "id": "CITY-03",
+      "path": "assets/02_双城_场景/CITY-03_虚构中环站_对照概念A.png",
+      "original_filename": "a_wide_cinematic_split_panel_illustration_of_the.png",
+      "size_px": [
+        1672,
+        941
+      ],
+      "bytes": 3132797,
+      "sha256": "30c1a8e81941c22abd990de617812eb1659b26eead4980be6540b5044e3fc216",
+      "review_status": "exploration",
+      "notes": "中环站为暂用同名站点；左右比较有对应性，但属于文字拼贴海报。"
+    },
+    {
+      "id": "CITY-04",
+      "path": "assets/02_双城_场景/CITY-04_虚构中环站_对照概念B.png",
+      "original_filename": "a_wide_cinematic_comparison_poster_infographic_of.png",
+      "size_px": [
+        1672,
+        941
+      ],
+      "bytes": 3134166,
+      "sha256": "c2420b45aecff246f2481279467efd9374e51b75030a5d598ec05b3c2bc0594a",
+      "review_status": "exploration",
+      "notes": "同一位置两种文明；含标题与缩略图，不是无字场景母图。"
+    },
+    {
+      "id": "CITY-05",
+      "path": "assets/02_双城_场景/CITY-05_现实中环站_低清裁切.png",
+      "original_filename": "real_city_zhonghuan_reference.png",
+      "size_px": [
+        800,
+        450
+      ],
+      "bytes": 767828,
+      "sha256": "f098bcd1f2d94e47eebd31a20132dec147520c2245aeb04f104f1da279178766",
+      "review_status": "crop_lowres",
+      "notes": "800x450，裁切场景参考，不能视为高清独立生成母图。"
+    },
+    {
+      "id": "CITY-06",
+      "path": "assets/02_双城_场景/CITY-06_镜像中环站_低清裁切.png",
+      "original_filename": "mirror_city_zhonghuan_reference.png",
+      "size_px": [
+        800,
+        450
+      ],
+      "bytes": 766091,
+      "sha256": "492cd3d73e86d1babcf944a57505c38ed4733a0c7ad2a6271f4f999a5e0fc730",
+      "review_status": "crop_lowres",
+      "notes": "800x450，裁切场景参考，不能视为高清独立生成母图。"
+    },
+    {
+      "id": "CITY-07",
+      "path": "assets/02_双城_场景/CITY-07_现实城市_枢纽全景.png",
+      "original_filename": "黄昏繁华都市交通枢纽.png",
+      "size_px": [
+        1672,
+        941
+      ],
+      "bytes": 2937821,
+      "sha256": "556b45cc2c3178f7004f3b917b598781845a26e887680b2a43ffee6940cf24b8",
+      "review_status": "candidate",
+      "notes": "第二组独立现实枢纽场景；需与镜像构图对照核验是否真同机位。"
+    },
+    {
+      "id": "CITY-08",
+      "path": "assets/02_双城_场景/CITY-08_现实城市_地铁车厢.png",
+      "original_filename": "黄昏地铁里的城市通勤者.png",
+      "size_px": [
+        1672,
+        941
+      ],
+      "bytes": 2146482,
+      "sha256": "35cc3ec16700976a211f91f59db3a2cd4b72fe090d5281aebf3eee66046650a5",
+      "review_status": "candidate",
+      "notes": "第二组地铁车厢背景；车厢细节与列车资产要统一。"
+    },
+    {
+      "id": "CITY-09",
+      "path": "assets/02_双城_场景/CITY-09_镜像城市_枢纽全景.png",
+      "original_filename": "暮色魔幻中环车站城景.png",
+      "size_px": [
+        1672,
+        941
+      ],
+      "bytes": 3360818,
+      "sha256": "2ae0fdf7ed3933ca27f5fd100a6596155d65f78d6aa0d58c8167644852d8a3be",
+      "review_status": "candidate",
+      "notes": "第二组魔法枢纽全景；华丽哥特尖塔风格仍可调整。"
+    },
+    {
+      "id": "CITY-10",
+      "path": "assets/02_双城_场景/CITY-10_镜像城市_魔法站厅.png",
+      "original_filename": "星穹幻境列车站.png",
+      "size_px": [
+        1672,
+        941
+      ],
+      "bytes": 2728321,
+      "sha256": "2c95197e9597126400c33e67c65cad29381b662eb2b329efe1b550f0488f76fc",
+      "review_status": "candidate",
+      "notes": "第二组站台/室内；魔法列车外形与第三组图不一致。"
+    },
+    {
+      "id": "TRN-01",
+      "path": "assets/03_列车_剧情/TRN-01_交通分镜概念8格.png",
+      "original_filename": "a_wide_high_quality_cinematic_illustration_collag.png",
+      "size_px": [
+        1536,
+        1024
+      ],
+      "bytes": 2733439,
+      "sha256": "b54f7f36990e077badb3256f18f1e7869daddc6d7f6fc2d3b85d030edb189d67",
+      "review_status": "exploration",
+      "notes": "交通与剧情流程概念板，含8格非独立高清画面。"
+    },
+    {
+      "id": "TRN-02",
+      "path": "assets/03_列车_剧情/TRN-02_交通分镜概念6格.png",
+      "original_filename": "a_wide_cinematic_comic_storyboard_style_collage.png",
+      "size_px": [
+        1536,
+        1024
+      ],
+      "bytes": 2831284,
+      "sha256": "3e6832ee30c571131d312278ec8d6c9aa9f4f50b3cca91c4349160d1125fc1ea",
+      "review_status": "exploration",
+      "notes": "第三组再次生成拼图，部分画面角色服装变为连帽衫。"
+    },
+    {
+      "id": "TRN-03",
+      "path": "assets/03_列车_剧情/TRN-03_现实地铁列车_低清裁切.png",
+      "original_filename": "03_real_metro_train.png",
+      "size_px": [
+        499,
+        387
+      ],
+      "bytes": 330210,
+      "sha256": "7fcbbde1d12bfc9a71ad76ab8bb5d30901c598adb810219131e64d2b56f41cfb",
+      "review_status": "crop_lowres",
+      "notes": "499x387，拼图裁切，不能当列车定型高清原图。"
+    },
+    {
+      "id": "TRN-04",
+      "path": "assets/03_列车_剧情/TRN-04_镜像魔法列车_低清裁切.png",
+      "original_filename": "03_magic_metro_train.png",
+      "size_px": [
+        499,
+        387
+      ],
+      "bytes": 404162,
+      "sha256": "2d63179321faa4affa79e9572728f48e80d1e998bb7346d90e53bee61906b124",
+      "review_status": "crop_lowres",
+      "notes": "499x387，拼图裁切，尚未定型，须与站厅内列车统一。"
+    },
+    {
+      "id": "TRN-05",
+      "path": "assets/03_列车_剧情/TRN-05_周遥通勤_低清裁切.png",
+      "original_filename": "03_zhouyao_commute.png",
+      "size_px": [
+        500,
+        387
+      ],
+      "bytes": 311085,
+      "sha256": "44adc01e3638d5a550e5f198ca103934b25ce05ac446d5747edcaf13f3db0bbd",
+      "review_status": "crop_lowres",
+      "notes": "500x387，角色通勤服装与早期黑色外套/发型有明显变化。"
+    },
+    {
+      "id": "TRN-06",
+      "path": "assets/03_列车_剧情/TRN-06_初见镜像世界_低清裁切.png",
+      "original_filename": "03_zhouyao_first_glimpse.png",
+      "size_px": [
+        499,
+        435
+      ],
+      "bytes": 357728,
+      "sha256": "cf6e9dd80ad7b524857d21c894d09e163d3648d3382c3750a519f8930e2d3aac",
+      "review_status": "crop_lowres",
+      "notes": "499x435，适合当镜头构图参考，非可直接使用的高清母图。"
+    }
+  ]
+}
